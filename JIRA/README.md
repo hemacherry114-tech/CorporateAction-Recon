@@ -78,8 +78,15 @@ Attachments
 
 
 
+Workflow board
 ![JIRA Board Overview](/JIRA/jira_board_view.png)
+
+Task list – page 1
+
 ![JIRA Task List – page 1](/JIRA/jira_task_list1.png)
+
+Task list – page 2
+
 ![JIRA Task List – page 2](/JIRA/jira_task_list2.png)
 
 
@@ -94,5 +101,6 @@ Key Learnings
 .Gained experience defining clear workflow statuses and priorities
 
 .Improved understanding of UAT (User Acceptance Testing) in financial data analytics
+
 
 
