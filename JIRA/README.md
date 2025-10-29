@@ -78,13 +78,10 @@ Attachments
 
 
 
-jira\_board\_view.png(./jira\_board\_view.png) – Overview of workflow stages
+![JIRA Board Overview](/JIRA/jira_board_view.png)
+![JIRA Task List – page 1](/JIRA/jira_task_list1.png)
+![JIRA Task List – page 2](/JIRA/jira_task_list2.png)
 
-jira\_task\_list1.png(./jira\_task\_list1.png)
-
-jira\_task\_list2.png(./jira\_task\_list2.png)
-
-– List of all project tasks with details
 
 
 
@@ -97,4 +94,5 @@ Key Learnings
 .Gained experience defining clear workflow statuses and priorities
 
 .Improved understanding of UAT (User Acceptance Testing) in financial data analytics
+
 
