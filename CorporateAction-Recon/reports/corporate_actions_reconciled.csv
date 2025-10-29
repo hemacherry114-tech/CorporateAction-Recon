@@ -1,0 +1,30 @@
+ISIN,SecurityName,EventID,EventType,RecordDate,PaymentDate,AnnouncedAmount,Currency,PaidAmount,Variance,Status ,DelayDays
+IN000A1,ABC Ltd,EVT001,Dividend,15-09-2025,01-10-2025,2,INR,2,0,Matched,16
+IN000A1,ABC Ltd,EVT002,Split,20-09-2025,05-10-2025,0,INR,0,0,Matched,15
+IN000B2,DEF Ltd,EVT003,Dividend,18-09-2025,03-10-2025,1.5,INR,1.25,-0.25,Mismatch,15
+IN000C3,GHI Ltd,EVT004,Dividend,18-09-2025,04-10-2025,3,INR,3,0,Matched,16
+IN000D4,JKL Ltd,EVT005,Dividend,25-09-2025,10-10-2025,1,INR,1,0,Matched,15
+IN000E5,MNO Ltd,EVT006,Dividend,25-09-2025,12-10-2025,2.5,INR,2.25,-0.25,Mismatch,17
+IN000F6,PQR Ltd,EVT007,Dividend,28-09-2025,14-10-2025,1.25,INR,1.25,0,Matched,16
+IN000G7,STU Ltd,EVT008,Dividend,30-09-2025,15-10-2025,2.2,INR,2.5,0.3,Mismatch,15
+IN000H8,VWX Ltd,EVT009,Dividend,30-09-2025,16-10-2025,1.8,INR,1.5,-0.3,Mismatch,16
+IN000I9,YZA Ltd,EVT010,Dividend,01-10-2025,17-10-2025,2,INR,2,0,Matched,16
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
